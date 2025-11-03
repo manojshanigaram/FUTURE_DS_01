@@ -49,6 +49,19 @@ This dashboard provides a **single-page, user-friendly view** of all important K
 
 ---
 
+**📁 Repository Structure**
+
+📦 Facebook-Ads-Performance-Dashboard
+
+ ┣ 📊 Task\_01.pbix
+
+ ┣ 📄 README.md
+
+ ┗ 📂 Data
+
+     ┗ 📄 superstore.xls
+
+  
 ## 📸 Dashboard Preview
 
 *(<img width="933" height="677" alt="Screenshot 2025-10-31 234355" src="https://github.com/user-attachments/assets/bb022062-a4a5-4855-93eb-7781c296f2fc" />
